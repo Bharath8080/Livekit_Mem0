@@ -1,0 +1,7 @@
+livekit-agents[groq,silero,turn-detector]
+python-dotenv
+livekit-agents[deepgram]
+livekit-agents[openai]
+#livekit-agents[cartesia]
+mem0ai
+#livekit-agents[mcp]
